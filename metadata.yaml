@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/744
     wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22101#Wood-Folk-at-School
 gutenberg_bookshelf: Animals-Wild
 gutenberg_issued: '2007-07-19'
 gutenberg_type: Text
