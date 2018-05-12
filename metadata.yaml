@@ -1,0 +1,30 @@
+_repo: Wood-Folk-at-School_22101
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22101-h/images/ill-cover.jpg
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2007-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+- !lcsh 'Animal behavior'
+title: Wood Folk at School
+url: http://www.gutenberg.org/ebooks/22101
